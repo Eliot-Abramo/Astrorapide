@@ -41,3 +41,4 @@
 /inital_files/radioastro_SW_power_ranger/src/signal_processing.h filter=lfs diff=lfs merge=lfs -text
 /inital_files/radioastro_SW_power_ranger/src/utils.cpp filter=lfs diff=lfs merge=lfs -text
 /inital_files/radioastro_SW_power_ranger/src/utils.h filter=lfs diff=lfs merge=lfs -text
+/Validated_sol_archives/cost_solutions.ods filter=lfs diff=lfs merge=lfs -text
