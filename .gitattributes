@@ -125,3 +125,4 @@
 /id_0/radioastro_SW_power_ranger/src/signal_processing.h filter=lfs diff=lfs merge=lfs -text
 /id_0/radioastro_SW_power_ranger/src/utils.cpp filter=lfs diff=lfs merge=lfs -text
 /id_0/radioastro_SW_power_ranger/src/utils.h filter=lfs diff=lfs merge=lfs -text
+/id_0/programOverlay.py filter=lfs diff=lfs merge=lfs -text
