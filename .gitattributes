@@ -5255,3 +5255,4 @@
 /adc_maison2.hwh filter=lfs diff=lfs merge=lfs -text
 /project_1.bit filter=lfs diff=lfs merge=lfs -text
 /project_1.hwh filter=lfs diff=lfs merge=lfs -text
+/IP-catalog/project_1.tcl filter=lfs diff=lfs merge=lfs -text
