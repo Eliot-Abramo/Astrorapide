@@ -5120,3 +5120,7 @@
 /recaplabdriver/Exer02_VectorAdder_Moodle/SW/util.hpp filter=lfs diff=lfs merge=lfs -text
 /recaplabdriver/Exer02_VectorAdder_Moodle/SW/xaddvectors_hw.h filter=lfs diff=lfs merge=lfs -text
 /recaplabdriver/Exer02_VectorAdder_Moodle/extractBitstream.sh filter=lfs diff=lfs merge=lfs -text
+/CFFTDriver.cpp filter=lfs diff=lfs merge=lfs -text
+/CFFTDriver.hpp filter=lfs diff=lfs merge=lfs -text
+/FFT0.bit filter=lfs diff=lfs merge=lfs -text
+/FFT0.hwh filter=lfs diff=lfs merge=lfs -text
