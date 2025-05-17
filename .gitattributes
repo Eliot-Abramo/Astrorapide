@@ -5253,3 +5253,5 @@
 /sol5/radioastro_SW_power_ranger/src/utils.h filter=lfs diff=lfs merge=lfs -text
 /adc_maison2.bit filter=lfs diff=lfs merge=lfs -text
 /adc_maison2.hwh filter=lfs diff=lfs merge=lfs -text
+/project_1.bit filter=lfs diff=lfs merge=lfs -text
+/project_1.hwh filter=lfs diff=lfs merge=lfs -text
