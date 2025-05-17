@@ -5201,3 +5201,5 @@
 /extractBitstream.sh filter=lfs diff=lfs merge=lfs -text
 /FFTWTHBURST.bit filter=lfs diff=lfs merge=lfs -text
 /FFTWTHBURST.hwh filter=lfs diff=lfs merge=lfs -text
+/FFT1_p2.bit filter=lfs diff=lfs merge=lfs -text
+/FFT1_p2.hwh filter=lfs diff=lfs merge=lfs -text
