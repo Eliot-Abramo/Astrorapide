@@ -5203,3 +5203,5 @@
 /FFTWTHBURST.hwh filter=lfs diff=lfs merge=lfs -text
 /FFT1_p2.bit filter=lfs diff=lfs merge=lfs -text
 /FFT1_p2.hwh filter=lfs diff=lfs merge=lfs -text
+/adc_maison.bit filter=lfs diff=lfs merge=lfs -text
+/adc_maison.hwh filter=lfs diff=lfs merge=lfs -text
