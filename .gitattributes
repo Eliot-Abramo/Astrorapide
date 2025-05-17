@@ -245,3 +245,9 @@
 /sol2/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
 /sol3/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
 /inital_files/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
+/sol1/radioastro_SW_power_ranger/plot_profiles.py filter=lfs diff=lfs merge=lfs -text
+/sol1/radioastro_SW_power_ranger/profiles_timing_energy_snr.png filter=lfs diff=lfs merge=lfs -text
+/sol2/radioastro_SW_power_ranger/plot_profiles.py filter=lfs diff=lfs merge=lfs -text
+/sol2/radioastro_SW_power_ranger/profiles_timing_energy_snr.png filter=lfs diff=lfs merge=lfs -text
+/sol3/radioastro_SW_power_ranger/plot_profiles.py filter=lfs diff=lfs merge=lfs -text
+/sol3/radioastro_SW_power_ranger/profiles_timing_energy_snr.png filter=lfs diff=lfs merge=lfs -text
