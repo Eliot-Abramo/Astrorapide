@@ -243,3 +243,4 @@
 /sol3/radioastro_SW_power_ranger/src/utils.h filter=lfs diff=lfs merge=lfs -text
 /sol1/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
 /sol2/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
+/sol3/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
