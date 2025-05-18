@@ -6549,3 +6549,7 @@
 /sol12/sol12.bit filter=lfs diff=lfs merge=lfs -text
 /sol12/sol12.hwh filter=lfs diff=lfs merge=lfs -text
 /inital_files/radioastro_SW_power_ranger/plot_profiles.py filter=lfs diff=lfs merge=lfs -text
+/inital_files/radioastro_SW_power_ranger/initial_sols.png filter=lfs diff=lfs merge=lfs -text
+/sol1/radioastro_SW_power_ranger/sol1.png filter=lfs diff=lfs merge=lfs -text
+/sol2/radioastro_SW_power_ranger/sol2.png filter=lfs diff=lfs merge=lfs -text
+/sol3/radioastro_SW_power_ranger/sol3.png filter=lfs diff=lfs merge=lfs -text
