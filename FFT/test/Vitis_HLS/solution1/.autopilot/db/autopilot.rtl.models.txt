@@ -1,4 +1,0 @@
-fft_HW_fadd_32ns_32ns_32_5_full_dsp_1
-fft_HW_gmem_m_axi
-fft_HW_control_s_axi
-fft_HW
