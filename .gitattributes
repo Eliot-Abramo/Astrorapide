@@ -6100,3 +6100,5 @@
 /sol8/sol8.bit filter=lfs diff=lfs merge=lfs -text
 /sol8/sol8.hwh filter=lfs diff=lfs merge=lfs -text
 /sol8/sol8.tcl filter=lfs diff=lfs merge=lfs -text
+/sol5/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
+/sol7/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
