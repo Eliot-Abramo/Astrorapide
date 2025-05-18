@@ -6091,3 +6091,12 @@
 /sol7/programOverlay.py filter=lfs diff=lfs merge=lfs -text
 /sol8/programOverlay.py filter=lfs diff=lfs merge=lfs -text
 /sol4/programOverlay.py filter=lfs diff=lfs merge=lfs -text
+/sol6/IP-catalog/FFT1.zip filter=lfs diff=lfs merge=lfs -text
+/sol6/project_1_def_val.txt filter=lfs diff=lfs merge=lfs -text
+/sol6/project_1_dump.txt filter=lfs diff=lfs merge=lfs -text
+/sol6/sol4.bit filter=lfs diff=lfs merge=lfs -text
+/sol6/sol4.hwh filter=lfs diff=lfs merge=lfs -text
+/sol6/sol4.tcl filter=lfs diff=lfs merge=lfs -text
+/sol8/sol8.bit filter=lfs diff=lfs merge=lfs -text
+/sol8/sol8.hwh filter=lfs diff=lfs merge=lfs -text
+/sol8/sol8.tcl filter=lfs diff=lfs merge=lfs -text
