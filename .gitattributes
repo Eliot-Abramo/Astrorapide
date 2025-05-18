@@ -6086,3 +6086,7 @@
 /sol7/sol7.bit filter=lfs diff=lfs merge=lfs -text
 /sol7/sol7.hwh filter=lfs diff=lfs merge=lfs -text
 /sol7/sol7.tcl filter=lfs diff=lfs merge=lfs -text
+/sol5/programOverlay.py filter=lfs diff=lfs merge=lfs -text
+/sol6/programOverlay.py filter=lfs diff=lfs merge=lfs -text
+/sol7/programOverlay.py filter=lfs diff=lfs merge=lfs -text
+/sol8/programOverlay.py filter=lfs diff=lfs merge=lfs -text
