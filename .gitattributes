@@ -6083,3 +6083,6 @@
 /sol8/sol6.bit filter=lfs diff=lfs merge=lfs -text
 /sol8/sol6.hwh filter=lfs diff=lfs merge=lfs -text
 /sol8/sol6.tcl filter=lfs diff=lfs merge=lfs -text
+/sol7/sol7.bit filter=lfs diff=lfs merge=lfs -text
+/sol7/sol7.hwh filter=lfs diff=lfs merge=lfs -text
+/sol7/sol7.tcl filter=lfs diff=lfs merge=lfs -text
