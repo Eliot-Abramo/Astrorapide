@@ -6157,3 +6157,5 @@
 /sol8/IP-catalog/Pipeline.zip filter=lfs diff=lfs merge=lfs -text
 /sol8/sol10.bit filter=lfs diff=lfs merge=lfs -text
 /sol8/sol10.hwh filter=lfs diff=lfs merge=lfs -text
+/sol9/HLS/Testbench.cpp filter=lfs diff=lfs merge=lfs -text
+/sol9/IP-catalog/Pipeline.zip filter=lfs diff=lfs merge=lfs -text
