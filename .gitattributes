@@ -6190,3 +6190,5 @@
 /Pipeline_cache.hwh filter=lfs diff=lfs merge=lfs -text
 /Pipeline_Nocache.bit filter=lfs diff=lfs merge=lfs -text
 /Pipeline_Nocache.hwh filter=lfs diff=lfs merge=lfs -text
+/sol9/IP-catalog/Sol9.zip filter=lfs diff=lfs merge=lfs -text
+/sol9/Screenshot[[:space:]]from[[:space:]]2025-05-19[[:space:]]23-18-00.png filter=lfs diff=lfs merge=lfs -text
