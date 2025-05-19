@@ -6186,3 +6186,5 @@
 /sol11/radioastro_SW_power_ranger/src/utils.h filter=lfs diff=lfs merge=lfs -text
 /sol11/sol9.bit filter=lfs diff=lfs merge=lfs -text
 /sol11/sol9.hwh filter=lfs diff=lfs merge=lfs -text
+/Pipeline_cache.bit filter=lfs diff=lfs merge=lfs -text
+/Pipeline_cache.hwh filter=lfs diff=lfs merge=lfs -text
