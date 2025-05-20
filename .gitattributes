@@ -6235,3 +6235,4 @@
 /sol9/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
 /sol10/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
 /sol10/radioastro_SW_power_ranger/src/signal_processing.cpp.save filter=lfs diff=lfs merge=lfs -text
+/sol11/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
