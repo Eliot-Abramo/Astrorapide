@@ -6580,3 +6580,4 @@
 /sol7[[:space:]]copy/sol7.bit filter=lfs diff=lfs merge=lfs -text
 /sol7[[:space:]]copy/sol7.hwh filter=lfs diff=lfs merge=lfs -text
 /sol7[[:space:]]copy/sol7.tcl filter=lfs diff=lfs merge=lfs -text
+/sol7[[:space:]]copy/radioastro_SW_power_ranger/src/testbench.cpp filter=lfs diff=lfs merge=lfs -text
