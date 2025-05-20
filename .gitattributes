@@ -6554,3 +6554,4 @@
 /sol2/radioastro_SW_power_ranger/sol2.png filter=lfs diff=lfs merge=lfs -text
 /sol3/radioastro_SW_power_ranger/sol3.png filter=lfs diff=lfs merge=lfs -text
 /sol10/radioastro_SW_power_ranger/sol10.png filter=lfs diff=lfs merge=lfs -text
+/sol12/radioastro_SW_power_ranger/sol12.png filter=lfs diff=lfs merge=lfs -text
