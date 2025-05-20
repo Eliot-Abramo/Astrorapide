@@ -6543,3 +6543,8 @@
 /with_cache_p2/WholePipelineWithCache/WholePipelineWithACP.bit filter=lfs diff=lfs merge=lfs -text
 /with_cache_p2/WholePipelineWithCache/WholePipelineWithACP.hwh filter=lfs diff=lfs merge=lfs -text
 /sol12/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
+/sol12/IP_Catalog/constraints.xdc filter=lfs diff=lfs merge=lfs -text
+/sol12/IP_Catalog/sol12.zip filter=lfs diff=lfs merge=lfs -text
+/sol12/Screenshot[[:space:]]from[[:space:]]2025-05-20[[:space:]]03-14-27.png filter=lfs diff=lfs merge=lfs -text
+/sol12/sol12.bit filter=lfs diff=lfs merge=lfs -text
+/sol12/sol12.hwh filter=lfs diff=lfs merge=lfs -text
