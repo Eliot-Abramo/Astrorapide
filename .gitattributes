@@ -6555,3 +6555,5 @@
 /sol3/radioastro_SW_power_ranger/sol3.png filter=lfs diff=lfs merge=lfs -text
 /sol10/radioastro_SW_power_ranger/sol10.png filter=lfs diff=lfs merge=lfs -text
 /sol12/radioastro_SW_power_ranger/sol12.png filter=lfs diff=lfs merge=lfs -text
+/FFT_IP_VIVADO.bit filter=lfs diff=lfs merge=lfs -text
+/FFT_IP_VIVADO.hwh filter=lfs diff=lfs merge=lfs -text
