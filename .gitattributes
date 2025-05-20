@@ -6233,3 +6233,5 @@
 /sol8/Vivado.tcl filter=lfs diff=lfs merge=lfs -text
 /sol8/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
 /sol9/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
+/sol10/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
+/sol10/radioastro_SW_power_ranger/src/signal_processing.cpp.save filter=lfs diff=lfs merge=lfs -text
