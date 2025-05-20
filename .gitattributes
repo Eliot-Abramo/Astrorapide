@@ -6542,3 +6542,4 @@
 /with_cache_p2/WholePipelineWithCache/Vivado.tcl filter=lfs diff=lfs merge=lfs -text
 /with_cache_p2/WholePipelineWithCache/WholePipelineWithACP.bit filter=lfs diff=lfs merge=lfs -text
 /with_cache_p2/WholePipelineWithCache/WholePipelineWithACP.hwh filter=lfs diff=lfs merge=lfs -text
+/sol12/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
