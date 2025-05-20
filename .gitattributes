@@ -6223,3 +6223,11 @@
 /sol11/sol11.bit filter=lfs diff=lfs merge=lfs -text
 /sol11/sol11.hwh filter=lfs diff=lfs merge=lfs -text
 /sol11/sol11.tcl filter=lfs diff=lfs merge=lfs -text
+/sol10/IP-catalog/constraints.xdc filter=lfs diff=lfs merge=lfs -text
+/sol10/IP-catalog/sol10.zip filter=lfs diff=lfs merge=lfs -text
+/sol10/Screenshot[[:space:]]from[[:space:]]2025-05-19[[:space:]]23-55-58.png filter=lfs diff=lfs merge=lfs -text
+/sol10/Vivado.tcl filter=lfs diff=lfs merge=lfs -text
+/sol8/IP-catalog/constraints.xdc filter=lfs diff=lfs merge=lfs -text
+/sol8/IP-catalog/sol8.zip filter=lfs diff=lfs merge=lfs -text
+/sol8/Screenshot[[:space:]]from[[:space:]]2025-05-19[[:space:]]23-55-58.png filter=lfs diff=lfs merge=lfs -text
+/sol8/Vivado.tcl filter=lfs diff=lfs merge=lfs -text
