@@ -7682,3 +7682,7 @@
 /sol11_fixed/sol11.bit filter=lfs diff=lfs merge=lfs -text
 /sol11_fixed/sol11.hwh filter=lfs diff=lfs merge=lfs -text
 /sol11_fixed/sol11.tcl filter=lfs diff=lfs merge=lfs -text
+/Pipelevel11_NOCAHCE.bit filter=lfs diff=lfs merge=lfs -text
+/Pipelevel11_NOCAHCE.hwh filter=lfs diff=lfs merge=lfs -text
+/Pipeline11Cache.bit filter=lfs diff=lfs merge=lfs -text
+/Pipeline11Cache.hwh filter=lfs diff=lfs merge=lfs -text
