@@ -8379,3 +8379,4 @@
 /soldriver/sol11.bit filter=lfs diff=lfs merge=lfs -text
 /soldriver/sol11.hwh filter=lfs diff=lfs merge=lfs -text
 /soldriver/sol11.tcl filter=lfs diff=lfs merge=lfs -text
+/sol13/radioastro_SW_power_ranger/metrics.csv filter=lfs diff=lfs merge=lfs -text
