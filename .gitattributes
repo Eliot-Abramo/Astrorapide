@@ -8436,3 +8436,6 @@
 /sol15/radioastro_SW_power_ranger/src/utils.h filter=lfs diff=lfs merge=lfs -text
 /sol15/sol13.bit filter=lfs diff=lfs merge=lfs -text
 /sol15/sol13.hwh filter=lfs diff=lfs merge=lfs -text
+/sol15/Screenshot[[:space:]]from[[:space:]]2025-05-22[[:space:]]05-44-50.png filter=lfs diff=lfs merge=lfs -text
+/sol15/config2.bit filter=lfs diff=lfs merge=lfs -text
+/sol15/config2.hwh filter=lfs diff=lfs merge=lfs -text
