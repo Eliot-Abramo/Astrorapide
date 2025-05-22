@@ -8408,3 +8408,5 @@
 /sol14/radioastro_SW_power_ranger/src/signal_processing.h filter=lfs diff=lfs merge=lfs -text
 /sol14/radioastro_SW_power_ranger/src/utils.cpp filter=lfs diff=lfs merge=lfs -text
 /sol14/radioastro_SW_power_ranger/src/utils.h filter=lfs diff=lfs merge=lfs -text
+/sol14/sol14.bit filter=lfs diff=lfs merge=lfs -text
+/sol14/sol14.hwh filter=lfs diff=lfs merge=lfs -text
