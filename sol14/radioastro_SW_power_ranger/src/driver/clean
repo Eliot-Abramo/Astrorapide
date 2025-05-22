@@ -1,0 +1,6 @@
+rm modules.order
+rm Module.symvers
+rm .adder.*
+rm adder.mod*
+rm adder.ko*
+rm adder.o
