@@ -8455,3 +8455,4 @@
 /Untitled[[:space:]]1.ods filter=lfs diff=lfs merge=lfs -text
 /sol15/sol15.bit filter=lfs diff=lfs merge=lfs -text
 /sol15/sol15.hwh filter=lfs diff=lfs merge=lfs -text
+/Cost.ods filter=lfs diff=lfs merge=lfs -text
