@@ -45,11 +45,11 @@ graph TD
 
 | Feature                        | Description                                              | Backed By                                                  |
 | ------------------------------ | -------------------------------------------------------- | ---------------------------------------------------------- |
-| **AXI-Stream Pipelining**      | FFT and Conv chained via direct stream, no DDR buffering | `fft_hw.cpp`, `xconv2d.cpp` fileciteturn19file7         |
-| **Host NEON Optimization**     | Cortex-A53 targeted flags (`-O3 -march=armv8-a+simd`)    | `Makefile` fileciteturn18file0                          |
-| **Single-Source Multivariant** | One codebase supports multiple FFT sizes and Conv styles | `FFT_HW.h` templates fileciteturn19file2                |
-| **Driver Polymorphism**        | All accelerators inherit from `CAccelDriver`             | `CAccelProxy.cpp`, `CFFTDriver.cpp` fileciteturn19file3 |
-| **Reproducible DSE**           | `sol1` → `sol15` = stepwise, tagged optimisation log     | Repo structure, slide deck fileciteturn18file0          |
+| **AXI-Stream Pipelining**      | FFT and Conv chained via direct stream, no DDR buffering | `fft_hw.cpp`, `xconv2d.cpp`          |
+| **Host NEON Optimization**     | Cortex-A53 targeted flags (`-O3 -march=armv8-a+simd`)    | `Makefile`                           |
+| **Single-Source Multivariant** | One codebase supports multiple FFT sizes and Conv styles | `FFT_HW.h` templates                 |
+| **Driver Polymorphism**        | All accelerators inherit from `CAccelDriver`             | `CAccelProxy.cpp`, `CFFTDriver.cpp`  |
+| **Reproducible DSE**           | `sol1` → `sol15` = stepwise, tagged optimisation log     | Repo structure, slide deck          |
 
 ---
 
@@ -98,7 +98,6 @@ void CFFTDriver::enqueue(xrt::bo& src, xrt::bo& dst, uint32_t lgN) {
 | Software Only                                                                       |   714.3 s |  1039.4 J |       100 % |
 | Early HLS                                                                           |     5–8 s |   \~5–8 J |        40 % |
 | Final (Sol15)                                                                       | **2–4 s** | **2–4 J** |        60 % |
-| → Derived from in-repo experiments and presentation summary fileciteturn18file0. |           |           |             |
 
 ---
 
@@ -150,7 +149,7 @@ lab_hw_sw_final-main/
 |   7 | Proxy abstraction            | Host–kernel decoupling  fileciteturn19file5 |
 |  10 | Added XADC & DMA chain       | Real-time acquisition  fileciteturn19file8  |
 |  12 | Unrolled convolution         | 2.4× latency gain                              |
-|  14 | Clock gating, BRAM dual-port | 275 MHz @ 61 W                                 |
+|  14 | Clock gating, BRAM dual-port | 275 MHz                                        |
 |  15 | DSP retiming, final polish   | Production overlay                             |
 
 ---
