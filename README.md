@@ -2,7 +2,7 @@
 
 **Author:** Eliot Abramo, Mathias Rainaldi
 
-**Target Platforms:** Xilinx Alveo U200 (FPGA), Zynq UltraScale+ Cortex-A53 (host)
+**Target Platforms:** PYNQ-Z2 (FPGA), Zynq UltraScale+ Cortex-A53 (host)
 
 ---
 
