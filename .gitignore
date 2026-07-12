@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7fec93820fc0944ebdeb3eff11369c12e019b298a0483348eec5c2eca3a8fc8
-size 678
+# Editors and operating systems
+.vscode/
+.idea/
+*~
+.DS_Store
+
+# C/C++ and kernel build output
+*.o
+*.ko
+*.ko.*
+*.a
+*.so
+*.cmd
+*.mod.c
+*.symvers
+modules.order
+.tmp_versions/
+obj/
+radioastro
+PowerRanger
+
+# Generated application data and profiling output
+metrics.csv
+out_*.bin
+sds_trace_data.dat
+
+# Extracted datasets (keep packaged data.txz files)
+signal_data.bin
+reference_data.bin
+calibration_data.bin
+data_bin/*.bin
+
+# Xilinx Vivado/Vitis/HLS output
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.xpr
+*.runs/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+*.temp/
+*.vitis_hls_log_all.xml
+vitis_hls.log
+solution*/.autopilot/
+solution*/.debug/
+solution*/csim/
+solution*/impl/
+solution*/syn/
+
+# Local generated project directories
+NA/
+images/
+Conv2D_HW_HLS/
+Conv2D_HW_Vivado/
+Exercise*_HLS/
+Exercise*_Vivado/
